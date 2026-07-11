@@ -1,0 +1,176 @@
+{
+  "plays": [
+    {
+      "id": "-I5j_sY924fRYlV98aV9w1v6",
+      "ip": "::1",
+      "created_at": "2026-07-10T08:25:14.080Z",
+      "rounds": 0,
+      "correct_rounds": 0,
+      "average_precision": 0,
+      "status": "active"
+    },
+    {
+      "id": "B6QL2ZQwV-juDOMVnbL811uo",
+      "ip": "::1",
+      "created_at": "2026-07-10T08:54:13.496Z",
+      "rounds": 0,
+      "correct_rounds": 0,
+      "average_precision": 0,
+      "status": "active"
+    },
+    {
+      "id": "bqHl34tzvUgNykA5-1ln5WcS",
+      "ip": "::1",
+      "created_at": "2026-07-10T22:44:50.210Z",
+      "rounds": 0,
+      "correct_rounds": 0,
+      "average_precision": 0,
+      "status": "active"
+    },
+    {
+      "id": "NcVJfFRIiQN_7PGwXlgQ-sbg",
+      "ip": "::1",
+      "created_at": "2026-07-10T22:53:57.482Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 70.58504689754689,
+      "status": "finished",
+      "completed_at": "2026-07-10T22:54:42.623Z"
+    },
+    {
+      "id": "8BevAXYdHd3dF7ADR2-9-_1B",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:16:11.599Z",
+      "rounds": 0,
+      "correct_rounds": 0,
+      "average_precision": 0,
+      "status": "active"
+    },
+    {
+      "id": "Z7d0TJSur932SkPjbanqhQSy",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:17:06.227Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 69.54843073593074,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:17:39.318Z"
+    },
+    {
+      "id": "ZtUm1WEjaEuvs9FEH4eHVQdI",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:17:45.018Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 77.39565295815295,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:18:19.966Z"
+    },
+    {
+      "id": "ICSttZ12fNnCrwFPBjjUXnhc",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:18:23.962Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 62.96771284271286,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:18:44.622Z"
+    },
+    {
+      "id": "HFvy8Qd8x1hVrfuGO_kUl21q",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:18:50.355Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 74.52588383838385,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:19:15.759Z"
+    },
+    {
+      "id": "2Kz7O6OOgNThvV5HLcVmLGdy",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:19:45.408Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 78.25045093795094,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:20:18.404Z"
+    },
+    {
+      "id": "XRaJUbgcIpVg8xjHpF33xbkH",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:20:22.947Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 83.77191558441558,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:20:50.286Z"
+    },
+    {
+      "id": "vRgfG2Hczobo8nEMvmhbcw5B",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:20:54.423Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 71.74359668109669,
+      "status": "finished",
+      "completed_at": "2026-07-11T08:21:12.084Z"
+    },
+    {
+      "id": "7lvztm450OTvd2euricIxQHf",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:21:16.787Z",
+      "rounds": 0,
+      "correct_rounds": 0,
+      "average_precision": 0,
+      "status": "active"
+    },
+    {
+      "id": "HiN8cEzc0jN1SPsGDUqSiSMx",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:47:36.049Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 98.72227573332798,
+      "status": "winner",
+      "completed_at": "2026-07-11T08:48:05.839Z"
+    },
+    {
+      "id": "OPnWBkce5K3JG1r_clHs_x7G",
+      "ip": "::1",
+      "created_at": "2026-07-11T08:51:32.266Z",
+      "rounds": 10,
+      "correct_rounds": 10,
+      "average_precision": 99.70890552351742,
+      "status": "winner",
+      "completed_at": "2026-07-11T08:52:12.658Z"
+    }
+  ],
+  "codes": [
+    {
+      "code": "SONDER-FHE64",
+      "name": "Gerson",
+      "email": "gerson.rl2008@gmail.com",
+      "created_at": "2026-07-11T08:48:18.731Z",
+      "used_at": null,
+      "redeemed": 0,
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",
+      "source": "game",
+      "id": 1
+    },
+    {
+      "code": "SONDER-4XXR2",
+      "name": "Gerson",
+      "email": "gerucompa@gmail.com",
+      "created_at": "2026-07-11T08:52:32.442Z",
+      "used_at": null,
+      "redeemed": 0,
+      "ip": "::1",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0",
+      "source": "game",
+      "id": 2
+    }
+  ],
+  "nextCodeId": 3
+}
